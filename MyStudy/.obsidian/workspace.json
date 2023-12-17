@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6561ba02229af4b5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md"
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md"
               }
             }
           }
@@ -149,9 +148,11 @@
   },
   "active": "786fd13668ffa2a5",
   "lastOpenFiles": [
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/7. 코드를 함수로 모아봅시다(실습 모음집).md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/6. 반복해 봅시다..md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/9. 리스트와 딕셔너리.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/CallBack 함수.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/05 함수.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/6. 반복해 봅시다(실습 모음집).md",
@@ -202,8 +203,6 @@
     "Attached_file/Pasted image 20231025103538.png",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/의사결정.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/의사결정 나무 분석.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/신경망 분석.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/베이즈의 정리.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/빅데이터 3주차 과제_R 설치와 단순 베이즈 분류 실행 예.md"
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/신경망 분석.md"
   ]
 }
