@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "f3c5702508d96a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e8cb2ab06fe3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc66cd445f0073ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c98aef93316cb9a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c4cd3e90141846e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055edbc789047915",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54725528eac8d04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "재귀",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "081b15c1d77672ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6561ba02229af4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "98cfe39bf2b5a21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b536049563074f4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20b1baade68d23ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4726f61d70099304",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md"
+              }
+            }
+          },
+          {
+            "id": "e3a1551b0401f571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "fc66cd445f0073ea",
+  "lastOpenFiles": [
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024.02.12.월.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/변수.md",
+    "Attached_file/Pasted image 20240212104422.png",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/3주차 정리.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/2023/Ch03_프로젝트 계획과 관리.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2024_PCCP&PCCE/Hashing.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2024_PCCP&PCCE/Greedy.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/4. 데이터의 종류에는 어떤것들이 있나요.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/패키지.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/2023.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/인터프리터.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/4주차 정리.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/PortFolio",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/05 함수.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/재귀 함수.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/CallBack 함수.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/익명함수(Lambda).md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/함수.md",
+    "Lambda.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/01자바스크립트 시작하기.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/3.계산해볼까요.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/문자열.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/비교 연산자.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/객체.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/9. 리스트와 딕셔너리.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
+    "MyStudy",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
+    "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
+    "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
+    "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy",
+    "canvas_file/통신 오류 검출.canvas",
+    "canvas_file/텍스트 마이닝 과정.canvas",
+    "canvas_file/군집분석.canvas",
+    "canvas_file/폭포수 모델.canvas",
+    "canvas_file/오피니언 마이닝 분석 과정.canvas",
+    "canvas_file/프로세스의 종류.canvas",
+    "canvas_file/소셜네트워크 분석 과정.canvas",
+    "canvas_file/네트워크 주소와 호스트 주소.canvas",
+    "canvas_file/운영체제 및 프로그램.canvas",
+    "canvas_file/설계와 품질 목표.canvas",
+    "Attached_file/Pasted image 20231213182119.png",
+    "Attached_file/Pasted image 20231025112721.png",
+    "Attached_file/빅데이터 개론 기말고사 범위-24.jpg",
+    "Attached_file/Pasted image 20231024204809.png",
+    "Attached_file/Pasted image 20231213181205.png",
+    "Attached_file/Pasted image 20231206172701.png",
+    "Attached_file/Pasted image 20231024203802.png",
+    "Attached_file/Pasted image 20231215065636.png",
+    "Attached_file/Pasted image 20231214235532.png"
+  ]
+}
