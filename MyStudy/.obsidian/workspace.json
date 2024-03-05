@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md"
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,10 @@
   },
   "active": "fc66cd445f0073ea",
   "lastOpenFiles": [
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024.02.12.월.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024.02.12.월.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/변수.md",
     "Attached_file/Pasted image 20240212104422.png",
@@ -180,13 +182,11 @@
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/비교 연산자.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/객체.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/9. 리스트와 딕셔너리.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/실습 모음집/9. 리스트와 딕셔너리(실습 모음집).md",
     "MyStudy",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
     "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
     "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
-    "Users/admin/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mystudy/MyStudy",
     "canvas_file/통신 오류 검출.canvas",
     "canvas_file/텍스트 마이닝 과정.canvas",
     "canvas_file/군집분석.canvas",
