@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a8e2107aa54fad4",
+            "id": "1fc5316e38a61e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/06 제이쿼리 문서객체 선택자와 조작법.md",
-                "mode": "preview",
+                "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ea477117a03408c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-06 10.57.03.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/06 제이쿼리 문서객체 선택자와 조작법.md",
+            "file": "Excalidraw/Drawing 2024-03-06 10.57.03.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/06 제이쿼리 문서객체 선택자와 조작법.md",
+            "file": "Excalidraw/Drawing 2024-03-06 10.57.03.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/06 제이쿼리 문서객체 선택자와 조작법.md"
+            "file": "Excalidraw/Drawing 2024-03-06 10.57.03.excalidraw.md"
           }
         }
       }
@@ -123,16 +134,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64ea82a3432529de",
+  "active": "4ea477117a03408c",
   "lastOpenFiles": [
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
+    "Excalidraw/Drawing 2024-03-06 10.57.03.excalidraw.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/1주차.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음",
+    "Excalidraw",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/06 제이쿼리 문서객체 선택자와 조작법.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/07 제이쿼리 이벤트.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/9. 리스트와 딕셔너리.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/4. 데이터의 종류에는 어떤것들이 있나요.md",
