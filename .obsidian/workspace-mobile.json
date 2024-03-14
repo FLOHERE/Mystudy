@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
+                "file": "Excalidraw/안드로이드 2주차.md"
               }
             }
           }
@@ -55,7 +55,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "클라우드",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+            "file": "Excalidraw/안드로이드 2주차.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+            "file": "Excalidraw/안드로이드 2주차.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
+            "file": "Excalidraw/안드로이드 2주차.md"
           }
         }
       }
@@ -143,10 +143,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390b2d5535c5cc65",
+  "active": "64ea82a3432529de",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-13 09.16.16.excalidraw.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/2주차 정리.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024.02.12.월.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/1주차 정리.md",
+    "Excalidraw/안드로이드 2주차.md",
+    "Pasted Image 20240314161928_322.png",
+    "Pasted Image 20240314144648_086.jpg",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",

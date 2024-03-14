@@ -11,12 +11,9 @@
             "id": "fc66cd445f0073ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md"
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
               }
             }
           },
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,14 +142,17 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fc66cd445f0073ea",
   "lastOpenFiles": [
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/8주차 정리.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/3주차 정리.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024.02.12.월.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/03 제어문.md",
@@ -179,8 +179,6 @@
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/익명함수(Lambda).md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/함수.md",
     "Lambda.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/3.계산해볼까요.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/문자열.md",
     "MyStudy",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
