@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94e8cb2ab06fe3ca",
+        "id": "1f888f8ca5cb4674",
         "type": "tabs",
         "children": [
           {
-            "id": "fc66cd445f0073ea",
+            "id": "225147e4aef7f870",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DataBase/안드로이드 2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DataBase/안드로이드 2주차.md"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DataBase/안드로이드 2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +144,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc66cd445f0073ea",
+  "active": "055edbc789047915",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-14 17.09.30.excalidraw.md",
+    "Attached_file/Pasted Image 20240314161928_322.png",
+    "Attached_file/Pasted Image 20240314144648_086.jpg",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+    "Excalidraw/Drawing 2024-03-14 17.09.30.excalidraw.md",
     "Excalidraw",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
@@ -179,7 +179,6 @@
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/CallBack 함수.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2023/7. 코드를 함수로 모아봅시다..md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/익명함수(Lambda).md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/함수.md",
     "MyStudy",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역",
@@ -202,7 +201,6 @@
     "Attached_file/Pasted image 20231213181205.png",
     "Attached_file/Pasted image 20231206172701.png",
     "Attached_file/Pasted image 20231024203802.png",
-    "Attached_file/Pasted image 20231215065636.png",
-    "Attached_file/Pasted image 20231214235532.png"
+    "Attached_file/Pasted image 20231215065636.png"
   ]
 }
