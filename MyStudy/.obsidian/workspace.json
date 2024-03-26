@@ -19,6 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b22aa98b57a6aa8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas_file/ANSI.canvas",
+                "viewState": {
+                  "x": -16.395529197080254,
+                  "y": 36.9534306569343,
+                  "zoom": -0.5610718805131351
+                }
+              }
+            }
           }
         ]
       }
@@ -151,13 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "225147e4aef7f870",
+  "active": "4726f61d70099304",
   "lastOpenFiles": [
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/2주차.md",
+    "canvas_file/ANSI.canvas",
+    "Attached_file/Pasted image 20240326145019.png",
+    "Attached_file/Pasted image 20240326144952.png",
     "Attached_file/Pasted image 20240326142710.png",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/NETWORK/2023.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/2주차.md",
     "Attached_file/Pasted image 20240320235411.png",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024년 자바 스터디 모임.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JS/2023/02 자바스크립트 기초 문법.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/Android/안드로이드 2주차.md",
@@ -202,12 +220,8 @@
     "canvas_file/소셜네트워크 분석 과정.canvas",
     "canvas_file/네트워크 주소와 호스트 주소.canvas",
     "canvas_file/운영체제 및 프로그램.canvas",
-    "canvas_file/설계와 품질 목표.canvas",
     "Attached_file/Pasted image 20231213182119.png",
     "Attached_file/Pasted image 20231025112721.png",
-    "Attached_file/빅데이터 개론 기말고사 범위-24.jpg",
-    "Attached_file/Pasted image 20231024204809.png",
-    "Attached_file/Pasted image 20231213181205.png",
-    "Attached_file/Pasted image 20231206172701.png"
+    "Attached_file/빅데이터 개론 기말고사 범위-24.jpg"
   ]
 }
