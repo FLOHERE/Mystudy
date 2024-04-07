@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5dab2a725669576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스키마.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -152,8 +165,11 @@
   },
   "active": "dd79a01de67577e9",
   "lastOpenFiles": [
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1. 데이터 베이스 시스템.md",
+    "Attached_file/Pasted image 20240407224436.png",
+    "스키마.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/2.관계 데이터 모델.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1. 데이터 베이스 시스템.md",
+    "Attached_file/Pasted image 20240407224037.png",
     "Attached_file/Pasted image 20240407221521.png",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/3. SQL 기초(1),(2).md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/0.OT.md",
@@ -190,7 +206,6 @@
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/2023/Ch03_프로젝트 계획과 관리.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/PYTHON/2024_PCCP&PCCE/Hashing.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/PortFolio",
     "MyStudy",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school",
@@ -205,7 +220,6 @@
     "canvas_file/프로세스의 종류.canvas",
     "canvas_file/소셜네트워크 분석 과정.canvas",
     "canvas_file/네트워크 주소와 호스트 주소.canvas",
-    "canvas_file/운영체제 및 프로그램.canvas",
-    "Attached_file/Pasted image 20231213182119.png"
+    "canvas_file/운영체제 및 프로그램.canvas"
   ]
 }
