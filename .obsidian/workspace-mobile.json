@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df7fec69804e2b3c",
+        "id": "36a6e9257b1726d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c605b97e07607b",
+            "id": "2af6c6cd2520cb0b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
+                "file": "Excalidraw/Drawing 2024-04-08 10.22.19.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+            "file": "Excalidraw/Drawing 2024-04-08 10.22.19.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+            "file": "Excalidraw/Drawing 2024-04-08 10.22.19.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md"
+            "file": "Excalidraw/Drawing 2024-04-08 10.22.19.excalidraw.md"
           }
         }
       }
@@ -130,13 +130,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2c605b97e07607b",
+  "active": "2af6c6cd2520cb0b",
   "lastOpenFiles": [
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/2주차.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/1주차.md",
+    "Excalidraw/Drawing 2024-04-08 14.12.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-08 10.22.19.excalidraw.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/5주차 정리.md",
+    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/Android/안드로이드 2주차.md",
     "MyStudy/Attached_file/Pasted image 20240331210658.png",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",
-    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/2주차.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/무제 파일.md",
-    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/CODE GYM/2024년 자바 스터디 모임.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/JAVA/JAVA_Basic/1주차.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1주차.md",
@@ -147,7 +152,6 @@
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/BIGDATA/1주차 정리.md",
     "MyStudy/Attached_file/Pasted Image 20240314161928_322.png",
     "MyStudy/Attached_file/Pasted Image 20240314144648_086.jpg",
-    "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/1주차.md",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음",
     "Excalidraw",
     "MyStudy/📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT",
