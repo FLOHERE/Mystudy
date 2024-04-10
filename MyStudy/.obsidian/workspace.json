@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인스턴스",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,12 +150,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54725528eac8d04f",
+  "active": "6ff7c9fe88f6cb65",
   "lastOpenFiles": [
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/1. 데이터 베이스 시스템.md",
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/2.관계 데이터 모델.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/DML, DDL, DCL.md",
     "canvas_file/ANSI.canvas",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/2.관계 데이터 모델.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/0.OT.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/2023/Ch03_프로젝트 계획과 관리.md",
     "Attached_file/Pasted image 20240410163633.png",
