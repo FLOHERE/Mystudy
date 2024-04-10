@@ -1,0 +1,13 @@
+- DDL (DB정의)
+	- CREATE : 테이블 생성(1)
+	- DROP : 삭제
+		- 테이블 자체를 날린다
+	- INSERT : 데이터 삽입(2)(공간을 차지한다)
+- ==DML(조작어)==
+	- SELECT
+	- DELETE : 삭제
+		- 내용을 지우는거
+	- UPDATE : 데이터 최신화
+- DCL(권한 제어)
+	- REVOKE
+
