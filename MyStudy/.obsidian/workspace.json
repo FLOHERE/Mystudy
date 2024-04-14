@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/3주차.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -146,7 +146,8 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6ff7c9fe88f6cb65",
