@@ -11,12 +11,14 @@
             "id": "6ff7c9fe88f6cb65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "canvas_file/무제 파일.canvas",
+                "viewState": {
+                  "x": 3.7199999999999838,
+                  "y": 18.600000000000012,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md",
+                "file": "canvas_file/무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md"
+                "file": "canvas_file/무제 파일.canvas"
               }
             }
           },
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md",
+                "file": "canvas_file/무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +154,12 @@
   },
   "active": "6ff7c9fe88f6cb65",
   "lastOpenFiles": [
+    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md",
+    "canvas_file/무제 파일.canvas",
     "Attached_file/Pasted image 20240416193122.png",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/3주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/6주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/5주차.md",
-    "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/4주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/Android/내가 놓친거.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/Android/안드로이드 2주차.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/Android/5주차.md",
@@ -181,7 +184,6 @@
     "canvas_file/ANSI.canvas",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/0.OT.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/SOFTWARE/2023/Ch03_프로젝트 계획과 관리.md",
-    "Attached_file/Pasted image 20240410163633.png",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/DB/스키마.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/2주차 필기.md",
     "📝PROJECT - 목표와 정확한 데드라인이 있는 영역/CODING_school/IOT/필기 드로잉 모음/1주차 필기.md",
@@ -206,7 +208,6 @@
     "canvas_file/오피니언 마이닝 분석 과정.canvas",
     "canvas_file/프로세스의 종류.canvas",
     "canvas_file/소셜네트워크 분석 과정.canvas",
-    "canvas_file/네트워크 주소와 호스트 주소.canvas",
-    "canvas_file/운영체제 및 프로그램.canvas"
+    "canvas_file/네트워크 주소와 호스트 주소.canvas"
   ]
 }
