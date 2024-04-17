@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "where",
+                "query": "ON",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
